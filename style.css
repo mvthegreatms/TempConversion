@@ -1,0 +1,46 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-left: 30%;
+   
+}
+#header{
+    background-color: rgb(241, 243, 178);
+}
+#header h1{
+    text-align: center;
+}
+.converter{
+    width: 500px;
+    background-color: bisque;
+    border: 2px solid black;
+    padding: 20px;
+   
+}
+#option{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fromto{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+  
+}
+#number{
+    font-size: 20px;
+}
+#ans{
+    height: 30px;
+    width: 400px;
+  
+}
+#Calculate{
+    font-size: 25px;
+    border-radius: 8px;
+    background-color: rgb(94, 239, 94);
+    cursor: pointer;
+
+}
